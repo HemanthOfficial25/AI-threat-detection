@@ -1,0 +1,18 @@
+
+> tmp-aegis@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 543ms
+
+○ Compiling / ...
+ GET / 200 in 7.1s (next.js: 5.8s, application-code: 1245ms)
+ GET / 200 in 24ms (next.js: 8ms, application-code: 16ms)
+ GET / 200 in 21ms (next.js: 7ms, application-code: 14ms)
+ GET / 200 in 14ms (next.js: 4ms, application-code: 10ms)
+ GET / 200 in 13ms (next.js: 4ms, application-code: 9ms)
+ GET / 200 in 13ms (next.js: 4ms, application-code: 9ms)
+ GET / 200 in 29ms (next.js: 12ms, application-code: 18ms)
+ GET / 200 in 12ms (next.js: 3ms, application-code: 8ms)
